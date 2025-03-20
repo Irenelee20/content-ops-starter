@@ -2,8 +2,7 @@
 title: Home
 slug: /
 sections:
-  - posts:
-      - content/pages/blog/USD-UNR.md
+  - posts: []
     showThumbnail: true
     showDate: true
     showAuthor: true
