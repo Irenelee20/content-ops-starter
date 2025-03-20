@@ -2,10 +2,7 @@
 title: Nvidia to invest billions in US chip production over four years
 slug: top-ten-lessons-we-learned
 date: '2025-03-20'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: ''
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
