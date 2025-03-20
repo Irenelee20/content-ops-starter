@@ -3,14 +3,7 @@ title: Home
 slug: /
 sections:
   - subtitle: Award winning enterprises trust u
-    images:
-      - type: ImageBlock
-        url: /images/hero2.svg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
