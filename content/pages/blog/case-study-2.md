@@ -1,7 +1,7 @@
 ---
 title: Nvidia to invest billions in US chip production over four years
 slug: case-study-2
-date: '2022-02-16'
+date: '2025-03-20'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
