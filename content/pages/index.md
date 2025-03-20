@@ -35,6 +35,7 @@ sections:
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-3.md
+      - content/pages/blog/USD-UNR.md
     showThumbnail: true
     showDate: true
     showAuthor: true
