@@ -4,9 +4,6 @@ slug: /
 sections:
   - subtitle: Award winning enterprises trust u
     images:
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
