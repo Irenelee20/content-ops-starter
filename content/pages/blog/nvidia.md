@@ -1,6 +1,6 @@
 ---
 title: Nvidia to invest billions in US chip production over four years
-slug: top-ten-lessons-we-learned
+slug: nvidia
 date: '2025-03-20'
 excerpt: ''
 featuredImage:
