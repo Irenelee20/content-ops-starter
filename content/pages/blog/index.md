@@ -10,6 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
+      - content/pages/blog/USD-UNR.md
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
     showExcerpt: true
