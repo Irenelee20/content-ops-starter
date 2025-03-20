@@ -3,7 +3,6 @@ title: Home
 slug: /
 sections:
   - posts:
-      - content/pages/blog/case-study-3.md
       - content/pages/blog/USD-UNR.md
     showThumbnail: true
     showDate: true
