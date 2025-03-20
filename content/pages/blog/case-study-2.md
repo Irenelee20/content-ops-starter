@@ -2,11 +2,7 @@
 title: Nvidia to invest billions in US chip production over four years
 slug: case-study-2
 date: '2025-03-20'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: "Nvidia\_NVDA.O\_plans to invest hundreds of billions of dollars in U.S.-made chips and electronics over the next four years, the Financial Times reported on Wednesday, quoting CEO Jensen Huang."
 featuredImage:
   url: /images/fb5878a87747ae32ed52992c1dd2413f.jpg
   altText: Case study 2
