@@ -2,16 +2,6 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Award winning enterprises trust u
-    images: []
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-3.md
       - content/pages/blog/USD-UNR.md
